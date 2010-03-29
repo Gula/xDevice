@@ -1,15 +1,20 @@
 window.addEvent('domready', function() {
 
-
-
-  var grafo = new xDevice.Base('grafo', {
-    height: 350
+  var grafo = new xDevice.Out.Grafo ('grafo', {
+    size: {
+      width: 500,
+      height: 200
+    },
+    scale: {
+      x: 4,
+      y: 2
+    }
   });
 
 
   // Nodos de mediciones
   //Selection of nodes with class atribute = header (see index.html)
-  var nodes = $$('.header'); //$$ is a selection function. The dot in '.header' means class atribute.
+  var elSensors = $$('.sensor'); //$$ is a selection function.
 	
   var timer = '';
   var timerCounter = new Number;
@@ -22,7 +27,7 @@ window.addEvent('domready', function() {
 
   $('loadStop').addEvent('click', function(e) {
     e.stop();
-    grafo.clear();
+    //grafo.clear();
     timer = $clear(timer); //cancel the periodical method. In this case, stop loadData from being executed periodically.
   });
 
@@ -39,7 +44,7 @@ window.addEvent('domready', function() {
 	
 	
   var stringJS = '';
-  nodes.each(function(node, iD) {
+  elSensors.each(function(node, iD) {
     stringJS += '$(\'channel' +(iD+1)+ '\').set(\'text\', $measurements[' +iD+ '].description);';
     stringJS += '$(\'measure' +(iD+1)+ '\').set(\'text\', $measurements[' +iD+ '].value);';
     stringJS += '$(\'unit' +(iD+1)+ '\').set(\'text\', $measurements[' +iD+ '].unit);';
@@ -70,8 +75,16 @@ window.addEvent('domready', function() {
 	
   // Update of values.
   var measureRefresh = function($measurements) {
+
     grafo.storeData($measurements[1].value)
-    eval(stringJS);
+
+    elSensors[0].getElement('h4').set('text', $measurements[0].description)
+    elSensors[0].getElement('div span').set('text', $measurements[0].value + $measurements[0].unit)
+    
+    elSensors[1].getElement('h4').set('text', $measurements[1].description)
+    elSensors[1].getElement('div span').set('text', $measurements[1].value + $measurements[1].unit)
+    
+    //eval(stringJS);
   };
 
 
@@ -99,4 +112,3 @@ window.addEvent('domready', function() {
   });
 
 });
-

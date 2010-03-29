@@ -4,27 +4,53 @@
  *
  * @version		0.1b
  * @license		MIT-style license
- * @author		Damian Suarez <rdsuarez@gmail.com>
- * @infos     http://www.xifox.net
+ * @authors
+ *  - Damian Suarez <rdsuarez@gmail.com>
+ *  - Jose Mare <josmare@gmail.com>
+ * @infos     http://
  * @copyright	Author
  *
-*/
+ */
 
 var xDevice = new Class({
 
-  Version: '0.1b1',
+  Version: '0.1',
 
-  Implements: Options
+  Implements: [Options, Events]
 
 });
 
-xDevice.Base = new Class({
+
+xDevice.Out = new Class({
+
+  options: {
+    size: {
+      width: 1000,
+      height: 400
+    }
+  },
+
+  initialize: function(container, options) {
+    this.setOptions(options);
+  }
+
+});
+
+
+
+
+
+xDevice.Out.Grafo = new Class({
 
   Extends: xDevice,
 
   options: {
-    width: 2500,
-    height: 400,
+
+    scale: {
+      x: 1,
+      y: 1
+    },
+
     xmin: 0,
     xmax: 1000,
     ymin: 0,
@@ -49,8 +75,8 @@ xDevice.Base = new Class({
       'styles': {
         'text-align': 'center',
         'background-color': '#8b2e19',
-        'width': this.options.width,
-        'height': this.options.height,
+        'width': this.options.size.width,
+        'height': this.options.size.height,
         'color': '#fff'
       }
     }));
@@ -58,8 +84,8 @@ xDevice.Base = new Class({
 
     this.samples = [];
 
-    this.canvas.width = this.options.width;
-    this.canvas.height = this.options.height;
+    this.canvas.width = this.options.size.width;
+    this.canvas.height = this.options.size.height;
     this.container.adopt(this.canvas);
 
     if (!this.canvas.getContext) return false;
@@ -84,7 +110,7 @@ xDevice.Base = new Class({
     //this.samples.include(sample);
     
     this.from = [this.time, this.to];
-    this.to = [this.time + 1, sample]
+    this.to = [(this.time + 1)*this.options.scale.x, sample*this.options.scale.y];
 
     this.time++;
 
