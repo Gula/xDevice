@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180"
+   height="130"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="logo_moodoo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/calisco/logo_sfFormMooPlugin_180x130.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2447"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5458303"
+     inkscape:cx="157.61107"
+     inkscape:cy="54.065763"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="fondo"
+     transform="translate(0,3.2501221e-3)"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3300"
+       width="180"
+       height="130"
+       x="0"
+       y="-0.0032501221"
+       rx="0"
+       ry="3.23809" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="fondo-circulo"
+     style="display:inline"
+     transform="translate(-135.96804,-133.19098)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="circulo"
+     transform="translate(-135.96804,-133.19098)" />
+  <g
+     inkscape:label="contornos"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-135.96804,-133.19098)">
+    <g
+       id="g3071">
+      <rect
+         rx="5.8872743"
+         ry="4.1705685"
+         y="0.83318019"
+         x="4.0519309"
+         height="128.17381"
+         width="21.393835"
+         id="rect3395"
+         style="display:inline;fill:#69b887;fill-opacity:1;stroke:none"
+         transform="translate(135.96804,133.19423)" />
+      <text
+         transform="matrix(0,-0.9014898,1.1092749,0,0,0)"
+         id="text3391"
+         y="141.21983"
+         x="-219.94804"
+         style="font-size:14.35100174px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+         xml:space="preserve"><tspan
+           style="fill:#000000"
+           id="tspan3397"
+           y="141.21983"
+           x="-219.94804"
+           sodipodi:role="line">sfFormMooDoo</tspan></text>
+    </g>
+    <g
+       id="g3065">
+      <rect
+         style="fill:#40886d;fill-opacity:1;stroke:none;display:inline"
+         id="rect3401"
+         width="17.23493"
+         height="128.17381"
+         x="165.55113"
+         y="134.0274"
+         ry="4.1705685"
+         rx="4.7428036" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.45815563px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+         x="-206.26399"
+         y="171.08797"
+         id="text3022"
+         transform="matrix(0,-0.96129684,1.0402614,0,0,0)"><tspan
+           sodipodi:role="line"
+           x="-206.26399"
+           y="171.08797"
+           id="tspan3024"
+           style="fill:#ffffff">Plugin</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="sombras">
+    <path
+       sodipodi:type="arc"
+       style="fill:#7fbf87;fill-opacity:1;stroke:#000000;stroke-width:1.05873489;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3273"
+       sodipodi:cx="212.17838"
+       sodipodi:cy="237.93512"
+       sodipodi:rx="60.456757"
+       sodipodi:ry="60.456757"
+       d="m 272.63513,237.93512 a 60.456757,60.456757 0 1 1 -120.91351,0 60.456757,60.456757 0 1 1 120.91351,0 z"
+       transform="matrix(-0.78785125,-0.52097515,0.52097515,-0.78785125,161.54942,367.41834)"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Impact;-inkscape-font-specification:Impact Bold"
+       id="text3287"
+       transform="matrix(0.8784527,0.34705262,-0.34705262,0.8784527,31.087724,-37.535933)"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27"><textPath
+         xlink:href="#path3273"
+         startOffset="50%"
+         id="textPath3296"><tspan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Impact;-inkscape-font-specification:Impact Bold"
+   id="tspan3289" /></textPath></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 167.785,69.1541 c 0,27.37556 -22.21785,49.59341 -49.5934,49.59341 -7.81871,-8.90245 -11.13138,-11.81239 -21.9884,-8.98656 -16.93971,4.40902 -29.26605,-21.87731 -29.29005,-40.60685 -0.035,-27.2707 95.75882,-14.3776 99.38719,-12.08425 1.16273,5.4592 1.48466,7.91656 1.48466,12.08425 z"
+       id="path3277"
+       sodipodi:nodetypes="ccsscc"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 167.44264,69.18212 c 0,27.37556 -22.21786,49.59341 -49.5934,49.59341 -7.81871,-8.90245 -11.13139,-11.81239 -21.98841,-8.98655 -16.93971,4.409 -29.26605,-21.87732 -29.29005,-40.60686 -0.035,-27.2707 97.70414,-15.43269 99.3872,-12.08425 1.16273,5.4592 1.48466,7.91656 1.48466,12.08425 z"
+       id="path3318"
+       sodipodi:nodetypes="ccsscc"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       sodipodi:nodetypes="csss"
+       id="path2457"
+       d="m 111.20633,25.52034 c 0.26549,-7.555 3.49256,-13.59718 8.45005,-18.5135 3.98871,-3.95558 10.8372,-5.9939 15.40668,-2.2995 11.50777,9.30397 8.00557,23.33197 4.37409,31.677"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="M 165.91074,57.07599 C 165.1931,56.42358 158.35514,53.98715 152.59623,49.36682 144.09988,42.55026 135.74321,32.82095 134.83312,32.07146 130.92395,28.85214 108.15886,20.11403 93.90193,30.23185 71.68738,45.99701 69.06727,56.21626 67.22767,61.04523 c -1.83961,4.82896 -1.62912,6.38117 -5.05892,22.30519 -3.21931,14.94678 -10.74391,10.84802 -8.73811,21.8453 1.97817,10.84586 15.90328,13.35228 36.10223,8.96807 7.09554,-1.54009 1.60964,-3.2193 21.15544,-13.10718 19.54579,-9.88787 13.88741,-10.70128 15.40668,-14.48688 6.20448,-15.45976 8.50817,-19.54579 8.50817,-19.54579"
+       id="path2453"
+       sodipodi:nodetypes="csssssssssc"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 110.14508,65.50867 c -9.19803,-18.16609 -5.86625,-30.54142 2.98935,-39.32154 3.98816,-3.95613 10.8372,-5.99391 15.40668,-2.29951 17.29349,13.9817 0.68985,38.63169 0.68985,38.63169"
+       id="path2455"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       id="path2459"
+       sodipodi:cx="162.09982"
+       sodipodi:cy="220.19121"
+       sodipodi:rx="3.9536541"
+       sodipodi:ry="6.0036969"
+       d="m 166.05348,220.19121 a 3.9536541,6.0036969 0 1 1 -7.90731,0 3.9536541,6.0036969 0 1 1 7.90731,0 z"
+       transform="matrix(0.9473418,-0.3944282,0.3944282,0.9473418,-164.84371,-63.705671)"
+       inkscape:transform-center-x="2.2272679"
+       inkscape:transform-center-y="2.545433"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       id="path3231"
+       sodipodi:cx="141.45296"
+       sodipodi:cy="244.93816"
+       sodipodi:rx="4.3929491"
+       sodipodi:ry="7.0287185"
+       d="m 145.84591,244.93816 a 4.3929491,7.0287185 0 1 1 -8.7859,0 4.3929491,7.0287185 0 1 1 8.7859,0 z"
+       transform="matrix(0.5735951,-0.1769,0.1479576,0.6857978,-61.772214,-39.488252)"
+       inkscape:transform-center-x="-1.2650122"
+       inkscape:transform-center-y="0.27479033"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       inkscape:transform-center-y="0.7220949"
+       inkscape:transform-center-x="0.63184566"
+       transform="matrix(0.2687457,-0.111893,0.111893,0.2687457,7.15437,36.4732)"
+       d="m 166.05348,220.19121 a 3.9536541,6.0036969 0 1 1 -7.90731,0 3.9536541,6.0036969 0 1 1 7.90731,0 z"
+       sodipodi:ry="6.0036969"
+       sodipodi:rx="3.9536541"
+       sodipodi:cy="220.19121"
+       sodipodi:cx="162.09982"
+       id="path3236"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       style="fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+       d="m 133.9193,66.43304 c -1.39787,0.8654 -5.736,13.22995 -7.19035,16.05157 -3.9282,7.62119 -0.66083,6.07536 -2.46809,8.91308 -1.89712,2.97883 -12.36341,7.92031 -24.89938,15.32525 -6.6683,3.93894 -4.85165,5.69645 -12.74814,7.07638 -7.89649,1.37993 -13.26647,1.69052 -18.65064,1.12324 -0.82605,-0.7996 10.3273,-1.4862 14.32419,-4.33429 5.3384,-3.80403 9.80281,-5.19617 17.21807,-8.43388 17.52569,-7.65222 22.62401,-16.85045 25.63783,-24.04043 1.96404,-4.68555 2.32471,-12.34715 4.27359,-12.90398 1.94888,-0.55682 6.04282,0.26974 4.50292,1.22306 z"
+       id="path3276"
+       sodipodi:nodetypes="cszszcssssz"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       style="fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 101.05031,107.7858 c 5.34205,-0.14494 8.45808,1.30174 10.67259,3.34115 3.41219,3.14238 3.15657,2.46982 6.44011,6.68924 1.40355,-0.0464 6.73785,0.0422 15.81192,-2.89011 -0.73966,-1.90605 -7.19932,-3.51915 -11.64795,-6.46738 -4.41297,-2.9246 -6.80793,-7.19096 -9.31954,-7.47316 -4.1935,2.09674 -10.03039,5.10019 -11.95713,6.80026 z"
+       id="path3874"
+       sodipodi:nodetypes="csccscc"
+       inkscape:export-filename="/home/damian/moodoo.png"
+       inkscape:export-xdpi="116.27"
+       inkscape:export-ydpi="116.27" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 59.735878,113.32333 c 5.849506,-0.41782 3.654722,-1.24024 9.517298,-3.51198 3.382503,-1.31072 2.57412,-3.74158 2.57412,-3.74158"
+       id="path4415"
+       sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="text3091"
+       transform="translate(-2,-2)"><textPath
+         xlink:href="#path3273"
+         id="textPath3095"><tspan
+   style="font-size:12;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="tspan3093">MooDoo</tspan></textPath></text>
+  </g>
+</svg>
