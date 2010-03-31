@@ -1,6 +1,6 @@
 {"measurements":[
-	{"description":"Sensor 0", "value":"21.368036", "unit":"deg/s"},
-	{"description":"Sensor 1", "value":"79.985565", "unit":"mV"},
+	{"description":"Sensor 0", "value":"137.88489", "unit":"deg/s"},
+	{"description":"Sensor 1", "value":"59.994275", "unit":"mV"},
 	{"description":"Sensor 2", "value":"30.880140", "unit":"degrees"},
 	{"description":"Sensor 3", "value":"40.380157", "unit":"mA"},
 	{"description":"Leak Sensor", "value":"0", "unit":""}
